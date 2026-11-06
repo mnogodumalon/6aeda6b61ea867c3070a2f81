@@ -1,0 +1,1 @@
+- Testeinträge (testeintraege): titel[string/text], beschreibung[string/textarea], testdatum[date/date], status[lookup/select], prioritaet[lookup/radio], bestanden[bool]
